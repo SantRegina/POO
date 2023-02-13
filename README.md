@@ -1,4 +1,4 @@
 # POO
-Exercícios de programação orientada a objeto usando JAVA
+Exercícios de programação orientada a objeto 
 
 -lignuagem: JAVA
